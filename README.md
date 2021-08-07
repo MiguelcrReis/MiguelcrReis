@@ -5,7 +5,7 @@
   👀 I’m interested in Technology and Coding 💙<br>
 <br>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/migueldacruzreis/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/miguel.reiss/">
