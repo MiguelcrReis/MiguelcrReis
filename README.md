@@ -9,9 +9,10 @@
 <!-- GITHUB STATUS -->
 <div align="center">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelcrReis&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelcrReis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelcrReis&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelcrReis&layout=compact&langs_count=10&theme=tokyonight"/>
+   <br>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
